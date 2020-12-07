@@ -4,7 +4,7 @@
 This work was developed for the Artificial Intelligence discipline to find the biggest value for x in the following function:
 
 ```
-f(x) = x*x - 3x + 4,
+f(x) = x*x - 3x + 4
 ```
 
 Also, x [-10, +10], x is a binary vector, the mutation rate is 1% and the cross-over rate is 70%.
